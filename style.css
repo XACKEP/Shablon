@@ -1,0 +1,38 @@
+.big{
+	display: flex;
+	box-sizing: border-box;
+	padding-left: 50px;
+}
+.column1{
+	
+	height: 600px;
+	width: 350px;
+	margin-right: 70px;
+	text-align: center;
+	font-family: Arial;
+}
+.column2{
+	
+	height: 600px;
+	width: 350px;
+	margin-right: 70px;
+	text-align: center;
+	font-family: Arial;
+}
+.column3{
+	
+	height: 600px;
+	width: 350px;
+	text-align: center;
+	font-family: Arial;
+}
+img{
+	height: 350px;
+}
+p{
+	font-weight: 100;
+	font-size: 18px;
+}
+h2{
+	font-weight: 100;
+}
